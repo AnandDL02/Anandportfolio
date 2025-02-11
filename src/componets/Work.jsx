@@ -61,7 +61,7 @@ With these technologies, BookMyShow ensures smooth ticket booking, fast performa
               <IoLogoGithub /> Code
             </a>
             <a
-              href="#"
+              href="https://sage-meringue-11ad65.netlify.app/"
               className="flex items-center text-[12px] lg:text-[15px] gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition"
             >
               <HiOutlineExternalLink /> Live Demo
@@ -97,7 +97,7 @@ With these technologies, BookMyShow ensures smooth ticket booking, fast performa
               <IoLogoGithub /> Code
             </a>
             <a
-              href="#"
+              href="https://ornate-salamander-c8d84f.netlify.app/"
               className="flex items-center text-[12px] lg:text-[15px] gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition"
             >
               <HiOutlineExternalLink /> Live Demo
